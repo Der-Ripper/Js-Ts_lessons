@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: #000000;
+  overflow: hidden;
+}
+
+
+.Input {
+  text-align: center;
+  background-color: #091291;
+  overflow: hidden;
+  position: sticky;
+  top: 0px;
+  left: 90%;
+  width: 15%;
+}
