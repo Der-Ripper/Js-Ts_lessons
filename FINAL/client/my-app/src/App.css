@@ -1,0 +1,67 @@
+body {
+  /*background: url(https://krot.info/uploads/posts/2021-02/1614130386_60-p-cherno-krasno-sinii-fon-63.jpg);*/
+  background-color: #000;
+}
+
+.Input {
+  position: fixed;
+  width: 25%;
+  height: 100%;
+  right: 15px;
+  top: 0px;
+  background-color: transparent;
+}
+
+.Form {
+  text-align: center;
+  position: fixed;
+  width: 40%;
+  height: 90%;
+  top: 5%;
+  left: 30%;
+  background-color: transparent;
+  opacity: 0.5;
+}
+
+.TextField {
+  width: 100%;
+  margin-top: 40px;
+  background-color: transparent;
+}
+
+.LogoutButton {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.CreateButton {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.DeleteButton {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.FormButton {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.Greeting {
+  position: fixed;
+  top: 2%;
+  left: 1%;
+  height: 30%;
+}
+
+.ThemeLabel {
+  position: fixed;
+  top: 15%;
+  left: 5%;
+}
+
+.ThemeButton {
+  float: left;
+}
